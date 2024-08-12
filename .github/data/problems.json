@@ -1865,6 +1865,10 @@
         {
             "day": "11",
             "title": "Minimum Number of Days to Disconnect Island"
+        },
+        {
+            "day": "12",
+            "title": "Kth Largest Element in a Stream"
         }
     ],
     "09- September": [
