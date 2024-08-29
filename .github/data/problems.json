@@ -1933,6 +1933,10 @@
         {
             "day": "28",
             "title": "Count Sub Islands"
+        },
+        {
+            "day": "29",
+            "title": "Most Stones Removed with Same Row or Column"
         }
     ],
     "09- September": [
