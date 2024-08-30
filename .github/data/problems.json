@@ -1937,6 +1937,10 @@
         {
             "day": "29",
             "title": "Most Stones Removed with Same Row or Column"
+        },
+        {
+            "day": "30",
+            "title": "Modify Graph Edge Weights"
         }
     ],
     "09- September": [
