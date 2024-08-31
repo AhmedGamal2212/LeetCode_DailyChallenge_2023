@@ -1941,6 +1941,10 @@
         {
             "day": "30",
             "title": "Modify Graph Edge Weights"
+        },
+        {
+            "day": "31",
+            "title": "Path with Maximum Probability"
         }
     ],
     "09- September": [
