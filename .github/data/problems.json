@@ -2071,6 +2071,10 @@
         {
             "day": "01",
             "title": "Convert 1D Array Into 2D Array"
+        },
+        {
+            "day": "02",
+            "title": "Find the Student that Will Replace the Chalk"
         }
     ],
     "10- October": [
