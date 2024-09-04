@@ -2079,6 +2079,10 @@
         {
             "day": "03",
             "title": "Sum of Digits of String After Convert"
+        },
+        {
+            "day": "04",
+            "title": "Walking Robot Simulation"
         }
     ],
     "10- October": [
