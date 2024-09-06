@@ -2087,6 +2087,10 @@
         {
             "day": "05",
             "title": "Find Missing Observations"
+        },
+        {
+            "day": "06",
+            "title": "Delete Nodes From Linked List Present in Array"
         }
     ],
     "10- October": [
