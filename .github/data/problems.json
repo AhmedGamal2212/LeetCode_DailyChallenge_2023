@@ -2095,6 +2095,10 @@
         {
             "day": "07",
             "title": "Linked List in Binary Tree"
+        },
+        {
+            "day": "08",
+            "title": "Split Linked List in Parts"
         }
     ],
     "10- October": [
