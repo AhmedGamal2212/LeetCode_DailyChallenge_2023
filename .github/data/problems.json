@@ -2107,6 +2107,10 @@
         {
             "day": "10",
             "title": "Insert Greatest Common Divisors in Linked List"
+        },
+        {
+            "day": "11",
+            "title": "Minimum Bit Flips to Convert Number"
         }
     ],
     "10- October": [
