@@ -2111,6 +2111,10 @@
         {
             "day": "11",
             "title": "Minimum Bit Flips to Convert Number"
+        },
+        {
+            "day": "12",
+            "title": "Count the Number of Consistent Strings"
         }
     ],
     "10- October": [
