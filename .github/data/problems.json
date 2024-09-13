@@ -2115,6 +2115,10 @@
         {
             "day": "12",
             "title": "Count the Number of Consistent Strings"
+        },
+        {
+            "day": "13",
+            "title": "XOR Queries of a Subarray"
         }
     ],
     "10- October": [
