@@ -2119,6 +2119,10 @@
         {
             "day": "13",
             "title": "XOR Queries of a Subarray"
+        },
+        {
+            "day": "14",
+            "title": "Longest Subarray With Maximum Bitwise AND"
         }
     ],
     "10- October": [
