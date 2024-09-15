@@ -2123,6 +2123,10 @@
         {
             "day": "14",
             "title": "Longest Subarray With Maximum Bitwise AND"
+        },
+        {
+            "day": "15",
+            "title": "Find the Longest Substring Containing Vowels in Even Counts"
         }
     ],
     "10- October": [
