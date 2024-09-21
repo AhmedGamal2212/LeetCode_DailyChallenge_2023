@@ -2147,6 +2147,10 @@
         {
             "day": "20",
             "title": "Shortest Palindrome"
+        },
+        {
+            "day": "21",
+            "title": "Lexicographical Numbers"
         }
     ],
     "10- October": [
