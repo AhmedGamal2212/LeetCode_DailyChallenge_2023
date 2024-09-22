@@ -2151,6 +2151,10 @@
         {
             "day": "21",
             "title": "Lexicographical Numbers"
+        },
+        {
+            "day": "22",
+            "title": "K-th Smallest in Lexicographical Order"
         }
     ],
     "10- October": [
