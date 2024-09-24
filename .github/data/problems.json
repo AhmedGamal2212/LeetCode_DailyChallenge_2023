@@ -2159,6 +2159,10 @@
         {
             "day": "23",
             "title": "Extra Characters in a String"
+        },
+        {
+            "day": "24",
+            "title": "Find the Length of the Longest Common Prefix"
         }
     ],
     "10- October": [
