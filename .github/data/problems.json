@@ -2317,6 +2317,10 @@
         {
             "day": "01",
             "title": "Check If Array Pairs Are Divisible by k"
+        },
+        {
+            "day": "02",
+            "title": "Rank Transform of an Array"
         }
     ],
     "11- November": [
