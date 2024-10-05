@@ -2329,6 +2329,10 @@
         {
             "day": "04",
             "title": "Divide Players Into Teams of Equal Skill"
+        },
+        {
+            "day": "05",
+            "title": "Permutation in String"
         }
     ],
     "11- November": [
