@@ -2333,6 +2333,10 @@
         {
             "day": "05",
             "title": "Permutation in String"
+        },
+        {
+            "day": "06",
+            "title": "Sentence Similarity III"
         }
     ],
     "11- November": [
