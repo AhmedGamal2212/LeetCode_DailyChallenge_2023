@@ -2337,6 +2337,10 @@
         {
             "day": "06",
             "title": "Sentence Similarity III"
+        },
+        {
+            "day": "07",
+            "title": "Minimum String Length After Removing Substrings"
         }
     ],
     "11- November": [
