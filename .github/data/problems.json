@@ -2345,6 +2345,10 @@
         {
             "day": "08",
             "title": "Minimum Number of Swaps to Make the String Balanced"
+        },
+        {
+            "day": "09",
+            "title": "Minimum Add to Make Parentheses Valid"
         }
     ],
     "11- November": [
