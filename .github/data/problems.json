@@ -2353,6 +2353,10 @@
         {
             "day": "10",
             "title": "Maximum Width Ramp"
+        },
+        {
+            "day": "11",
+            "title": "The Number of the Smallest Unoccupied Chair"
         }
     ],
     "11- November": [
