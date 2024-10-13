@@ -2361,6 +2361,10 @@
         {
             "day": "12",
             "title": "Divide Intervals Into Minimum Number of Groups"
+        },
+        {
+            "day": "13",
+            "title": "Smallest Range Covering Elements from K Lists"
         }
     ],
     "11- November": [
