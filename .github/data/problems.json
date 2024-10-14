@@ -2365,6 +2365,10 @@
         {
             "day": "13",
             "title": "Smallest Range Covering Elements from K Lists"
+        },
+        {
+            "day": "14",
+            "title": "Maximal Score After Applying K Operations"
         }
     ],
     "11- November": [
