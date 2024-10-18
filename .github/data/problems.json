@@ -2381,6 +2381,10 @@
         {
             "day": "17",
             "title": "Maximum Swap"
+        },
+        {
+            "day": "18",
+            "title": "Count Number of Maximum Bitwise-OR Subsets"
         }
     ],
     "11- November": [
