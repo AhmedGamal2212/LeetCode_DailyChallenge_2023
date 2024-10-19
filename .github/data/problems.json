@@ -2385,6 +2385,10 @@
         {
             "day": "18",
             "title": "Count Number of Maximum Bitwise-OR Subsets"
+        },
+        {
+            "day": "19",
+            "title": "Find Kth Bit in Nth Binary String"
         }
     ],
     "11- November": [
