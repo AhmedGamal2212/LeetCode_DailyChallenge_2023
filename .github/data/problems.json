@@ -2389,6 +2389,10 @@
         {
             "day": "19",
             "title": "Find Kth Bit in Nth Binary String"
+        },
+        {
+            "day": "20",
+            "title": "Parsing A Boolean Expression"
         }
     ],
     "11- November": [
