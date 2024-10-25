@@ -2409,6 +2409,10 @@
         {
             "day": "24",
             "title": "Flip Equivalent Binary Trees"
+        },
+        {
+            "day": "25",
+            "title": "Remove Sub-Folders from the Filesystem"
         }
     ],
     "11- November": [
