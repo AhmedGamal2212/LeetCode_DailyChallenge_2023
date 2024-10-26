@@ -2413,6 +2413,10 @@
         {
             "day": "25",
             "title": "Remove Sub-Folders from the Filesystem"
+        },
+        {
+            "day": "26",
+            "title": "Height of Binary Tree After Subtree Removal Queries"
         }
     ],
     "11- November": [
