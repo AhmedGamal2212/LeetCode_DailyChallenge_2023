@@ -2417,6 +2417,10 @@
         {
             "day": "26",
             "title": "Height of Binary Tree After Subtree Removal Queries"
+        },
+        {
+            "day": "27",
+            "title": "Count Square Submatrices with All Ones"
         }
     ],
     "11- November": [
