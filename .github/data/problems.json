@@ -2421,6 +2421,10 @@
         {
             "day": "27",
             "title": "Count Square Submatrices with All Ones"
+        },
+        {
+            "day": "28",
+            "title": "Longest Square Streak in an Array"
         }
     ],
     "11- November": [
