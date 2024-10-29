@@ -2425,6 +2425,10 @@
         {
             "day": "28",
             "title": "Longest Square Streak in an Array"
+        },
+        {
+            "day": "29",
+            "title": "Maximum Number of Moves in a Grid"
         }
     ],
     "11- November": [
