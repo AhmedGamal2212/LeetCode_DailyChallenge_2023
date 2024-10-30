@@ -2429,6 +2429,10 @@
         {
             "day": "29",
             "title": "Maximum Number of Moves in a Grid"
+        },
+        {
+            "day": "30",
+            "title": "Minimum Number of Removals to Make Mountain Array"
         }
     ],
     "11- November": [
