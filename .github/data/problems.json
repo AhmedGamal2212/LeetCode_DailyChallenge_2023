@@ -2433,6 +2433,10 @@
         {
             "day": "30",
             "title": "Minimum Number of Removals to Make Mountain Array"
+        },
+        {
+            "day": "31",
+            "title": "Minimum Total Distance Traveled"
         }
     ],
     "11- November": [
