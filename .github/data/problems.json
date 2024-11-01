@@ -2559,6 +2559,10 @@
         {
             "day": "30",
             "title": "Minimum One Bit Operations to Make Integers Zero"
+        },
+        {
+            "day": "01",
+            "title": "Delete Characters to Make Fancy String"
         }
     ],
     "12- December": [
