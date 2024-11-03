@@ -2567,6 +2567,10 @@
         {
             "day": "02",
             "title": "Circular Sentence"
+        },
+        {
+            "day": "03",
+            "title": "Rotate String"
         }
     ],
     "12- December": [
