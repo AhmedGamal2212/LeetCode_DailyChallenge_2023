@@ -2575,6 +2575,10 @@
         {
             "day": "04",
             "title": "String Compression III"
+        },
+        {
+            "day": "05",
+            "title": "Minimum Number of Changes to Make Binary String Beautiful"
         }
     ],
     "12- December": [
