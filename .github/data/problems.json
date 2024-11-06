@@ -2579,6 +2579,10 @@
         {
             "day": "05",
             "title": "Minimum Number of Changes to Make Binary String Beautiful"
+        },
+        {
+            "day": "06",
+            "title": "Find if Array Can Be Sorted"
         }
     ],
     "12- December": [
