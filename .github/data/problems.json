@@ -2587,6 +2587,10 @@
         {
             "day": "07",
             "title": "Largest Combination With Bitwise AND Greater Than Zero"
+        },
+        {
+            "day": "08",
+            "title": "Maximum XOR for Each Query"
         }
     ],
     "12- December": [
