@@ -2591,6 +2591,10 @@
         {
             "day": "08",
             "title": "Maximum XOR for Each Query"
+        },
+        {
+            "day": "09",
+            "title": "Minimum Array End"
         }
     ],
     "12- December": [
