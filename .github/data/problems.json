@@ -2607,6 +2607,10 @@
         {
             "day": "12",
             "title": "Most Beautiful Item for Each Query"
+        },
+        {
+            "day": "13",
+            "title": "Count the Number of Fair Pairs"
         }
     ],
     "12- December": [
