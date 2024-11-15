@@ -2615,6 +2615,10 @@
         {
             "day": "14",
             "title": "Minimized Maximum of Products Distributed to Any Store"
+        },
+        {
+            "day": "15",
+            "title": "Shortest Subarray to be Removed to Make Array Sorted"
         }
     ],
     "12- December": [
