@@ -2619,6 +2619,10 @@
         {
             "day": "15",
             "title": "Shortest Subarray to be Removed to Make Array Sorted"
+        },
+        {
+            "day": "16",
+            "title": "Find the Power of K-Size Subarrays I"
         }
     ],
     "12- December": [
