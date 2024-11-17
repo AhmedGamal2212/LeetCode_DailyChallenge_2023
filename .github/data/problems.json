@@ -2623,6 +2623,10 @@
         {
             "day": "16",
             "title": "Find the Power of K-Size Subarrays I"
+        },
+        {
+            "day": "17",
+            "title": "Shortest Subarray with Sum at Least K"
         }
     ],
     "12- December": [
