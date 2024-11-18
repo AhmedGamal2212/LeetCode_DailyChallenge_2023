@@ -2627,6 +2627,10 @@
         {
             "day": "17",
             "title": "Shortest Subarray with Sum at Least K"
+        },
+        {
+            "day": "18",
+            "title": "Defuse the Bomb"
         }
     ],
     "12- December": [
