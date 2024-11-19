@@ -2631,6 +2631,10 @@
         {
             "day": "18",
             "title": "Defuse the Bomb"
+        },
+        {
+            "day": "19",
+            "title": "Maximum Sum of Distinct Subarrays With Length K"
         }
     ],
     "12- December": [
