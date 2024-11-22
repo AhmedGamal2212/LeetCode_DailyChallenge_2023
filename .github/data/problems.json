@@ -2643,6 +2643,10 @@
         {
             "day": "21",
             "title": "Count Unguarded Cells in the Grid"
+        },
+        {
+            "day": "22",
+            "title": "Flip Columns For Maximum Number of Equal Rows"
         }
     ],
     "12- December": [
