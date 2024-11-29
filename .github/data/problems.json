@@ -2671,6 +2671,10 @@
         {
             "day": "28",
             "title": "Minimum Obstacle Removal to Reach Corner"
+        },
+        {
+            "day": "29",
+            "title": "Minimum Time to Visit a Cell In a Grid"
         }
     ],
     "12- December": [
