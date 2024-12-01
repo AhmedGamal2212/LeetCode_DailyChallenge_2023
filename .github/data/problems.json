@@ -2805,6 +2805,10 @@
         {
             "day": "31",
             "title": "Largest Substring Between Two Equal Characters"
+        },
+        {
+            "day": "01",
+            "title": "Check If N and Its Double Exist"
         }
     ]
 }
