@@ -2809,6 +2809,10 @@
         {
             "day": "01",
             "title": "Check If N and Its Double Exist"
+        },
+        {
+            "day": "02",
+            "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence"
         }
     ]
 }
