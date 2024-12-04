@@ -2817,6 +2817,10 @@
         {
             "day": "03",
             "title": "Adding Spaces to a String"
+        },
+        {
+            "day": "04",
+            "title": "Make String a Subsequence Using Cyclic Increments"
         }
     ]
 }
