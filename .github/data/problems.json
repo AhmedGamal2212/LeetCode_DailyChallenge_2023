@@ -2825,6 +2825,10 @@
         {
             "day": "05",
             "title": "Move Pieces to Obtain a String"
+        },
+        {
+            "day": "06",
+            "title": "Maximum Number of Integers to Choose From a Range I"
         }
     ]
 }
