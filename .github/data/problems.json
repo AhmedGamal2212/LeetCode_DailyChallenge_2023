@@ -2829,6 +2829,10 @@
         {
             "day": "06",
             "title": "Maximum Number of Integers to Choose From a Range I"
+        },
+        {
+            "day": "07",
+            "title": "Minimum Limit of Balls in a Bag"
         }
     ]
 }
