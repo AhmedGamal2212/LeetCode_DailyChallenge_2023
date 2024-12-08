@@ -2833,6 +2833,10 @@
         {
             "day": "07",
             "title": "Minimum Limit of Balls in a Bag"
+        },
+        {
+            "day": "08",
+            "title": "Two Best Non-Overlapping Events"
         }
     ]
 }
