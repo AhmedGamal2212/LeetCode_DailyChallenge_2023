@@ -2845,6 +2845,10 @@
         {
             "day": "10",
             "title": "Find Longest Special Substring That Occurs Thrice I"
+        },
+        {
+            "day": "11",
+            "title": "Maximum Beauty of an Array After Applying Operation"
         }
     ]
 }
