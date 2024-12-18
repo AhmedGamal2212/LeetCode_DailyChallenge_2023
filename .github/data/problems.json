@@ -2873,6 +2873,10 @@
         {
             "day": "17",
             "title": "Construct String With Repeat Limit"
+        },
+        {
+            "day": "18",
+            "title": "Final Prices With a Special Discount in a Shop"
         }
     ]
 }
