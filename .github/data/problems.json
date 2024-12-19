@@ -2877,6 +2877,10 @@
         {
             "day": "18",
             "title": "Final Prices With a Special Discount in a Shop"
+        },
+        {
+            "day": "19",
+            "title": "Max Chunks To Make Sorted"
         }
     ]
 }
