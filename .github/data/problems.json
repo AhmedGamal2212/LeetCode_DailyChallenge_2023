@@ -2889,6 +2889,10 @@
         {
             "day": "21",
             "title": "Maximum Number of K-Divisible Components"
+        },
+        {
+            "day": "22",
+            "title": "Find Building Where Alice and Bob Can Meet"
         }
     ]
 }
