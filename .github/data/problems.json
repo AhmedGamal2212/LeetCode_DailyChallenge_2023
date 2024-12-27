@@ -2909,6 +2909,10 @@
         {
             "day": "26",
             "title": "Target Sum"
+        },
+        {
+            "day": "27",
+            "title": "Best Sightseeing Pair"
         }
     ]
 }
