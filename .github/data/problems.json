@@ -2913,6 +2913,10 @@
         {
             "day": "27",
             "title": "Best Sightseeing Pair"
+        },
+        {
+            "day": "28",
+            "title": "Maximum Sum of 3 Non-Overlapping Subarrays"
         }
     ]
 }
