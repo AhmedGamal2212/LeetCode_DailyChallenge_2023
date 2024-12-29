@@ -2917,6 +2917,10 @@
         {
             "day": "28",
             "title": "Maximum Sum of 3 Non-Overlapping Subarrays"
+        },
+        {
+            "day": "29",
+            "title": "Number of Ways to Form a Target String Given a Dictionary"
         }
     ]
 }
