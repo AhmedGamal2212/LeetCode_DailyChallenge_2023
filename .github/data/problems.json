@@ -2925,6 +2925,10 @@
         {
             "day": "30",
             "title": "Count Ways To Build Good Strings"
+        },
+        {
+            "day": "31",
+            "title": "Minimum Cost For Tickets"
         }
     ]
 }
