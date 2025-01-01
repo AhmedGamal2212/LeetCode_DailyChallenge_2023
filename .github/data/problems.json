@@ -247,6 +247,10 @@
         {
             "day": "31",
             "title": "Daily Temperatures"
+        },
+        {
+            "day": "01",
+            "title": "Maximum Score After Splitting a String"
         }
     ],
     "02- February": [
