@@ -251,6 +251,10 @@
         {
             "day": "01",
             "title": "Maximum Score After Splitting a String"
+        },
+        {
+            "day": "02",
+            "title": "Count Vowel Strings in Ranges"
         }
     ],
     "02- February": [
