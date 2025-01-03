@@ -255,6 +255,10 @@
         {
             "day": "02",
             "title": "Count Vowel Strings in Ranges"
+        },
+        {
+            "day": "03",
+            "title": "Number of Ways to Split Array"
         }
     ],
     "02- February": [
