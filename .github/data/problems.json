@@ -275,6 +275,10 @@
         {
             "day": "07",
             "title": "String Matching in an Array"
+        },
+        {
+            "day": "08",
+            "title": "Count Prefix and Suffix Pairs I"
         }
     ],
     "02- February": [
