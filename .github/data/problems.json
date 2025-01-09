@@ -279,6 +279,10 @@
         {
             "day": "08",
             "title": "Count Prefix and Suffix Pairs I"
+        },
+        {
+            "day": "09",
+            "title": "Counting Words With a Given Prefix"
         }
     ],
     "02- February": [
