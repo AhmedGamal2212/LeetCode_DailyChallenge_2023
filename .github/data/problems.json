@@ -315,6 +315,10 @@
         {
             "day": "17",
             "title": "Neighboring Bitwise XOR"
+        },
+        {
+            "day": "18",
+            "title": "Minimum Cost to Make at Least One Valid Path in a Grid"
         }
     ],
     "02- February": [
