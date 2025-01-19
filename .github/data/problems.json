@@ -319,6 +319,10 @@
         {
             "day": "18",
             "title": "Minimum Cost to Make at Least One Valid Path in a Grid"
+        },
+        {
+            "day": "19",
+            "title": "Trapping Rain Water II"
         }
     ],
     "02- February": [
