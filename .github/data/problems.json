@@ -339,6 +339,10 @@
         {
             "day": "23",
             "title": "Count Servers that Communicate"
+        },
+        {
+            "day": "24",
+            "title": "Find Eventual Safe States"
         }
     ],
     "02- February": [
