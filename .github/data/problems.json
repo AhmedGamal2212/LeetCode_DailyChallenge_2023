@@ -343,6 +343,10 @@
         {
             "day": "24",
             "title": "Find Eventual Safe States"
+        },
+        {
+            "day": "25",
+            "title": "Make Lexicographically Smallest Array by Swapping Elements"
         }
     ],
     "02- February": [
