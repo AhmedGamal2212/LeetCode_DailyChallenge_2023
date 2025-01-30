@@ -363,6 +363,10 @@
         {
             "day": "29",
             "title": "Redundant Connection"
+        },
+        {
+            "day": "30",
+            "title": "Divide Nodes Into the Maximum Number of Groups"
         }
     ],
     "02- February": [
