@@ -605,6 +605,10 @@
         {
             "day": "01",
             "title": "Special Array I"
+        },
+        {
+            "day": "02",
+            "title": "Check if Array Is Sorted and Rotated"
         }
     ],
     "03- March": [
