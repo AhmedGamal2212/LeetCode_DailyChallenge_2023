@@ -613,6 +613,10 @@
         {
             "day": "03",
             "title": "Longest Strictly Increasing or Strictly Decreasing Subarray"
+        },
+        {
+            "day": "04",
+            "title": "Maximum Ascending Subarray Sum"
         }
     ],
     "03- March": [
