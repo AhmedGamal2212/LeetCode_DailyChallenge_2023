@@ -621,6 +621,10 @@
         {
             "day": "05",
             "title": "Check if One String Swap Can Make Strings Equal"
+        },
+        {
+            "day": "06",
+            "title": "Tuple with Same Product"
         }
     ],
     "03- March": [
