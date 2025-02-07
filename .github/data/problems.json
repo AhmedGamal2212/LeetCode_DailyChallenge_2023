@@ -625,6 +625,10 @@
         {
             "day": "06",
             "title": "Tuple with Same Product"
+        },
+        {
+            "day": "07",
+            "title": "Find the Number of Distinct Colors Among the Balls"
         }
     ],
     "03- March": [
