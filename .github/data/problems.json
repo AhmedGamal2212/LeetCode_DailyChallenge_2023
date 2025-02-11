@@ -641,6 +641,10 @@
         {
             "day": "10",
             "title": "Clear Digits"
+        },
+        {
+            "day": "11",
+            "title": "Remove All Occurrences of a Substring"
         }
     ],
     "03- March": [
