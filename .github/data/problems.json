@@ -645,6 +645,10 @@
         {
             "day": "11",
             "title": "Remove All Occurrences of a Substring"
+        },
+        {
+            "day": "12",
+            "title": "Max Sum of a Pair With Equal Sum of Digits"
         }
     ],
     "03- March": [
