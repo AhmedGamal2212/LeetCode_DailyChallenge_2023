@@ -693,6 +693,10 @@
         {
             "day": "23",
             "title": "Construct Binary Tree from Preorder and Postorder Traversal"
+        },
+        {
+            "day": "24",
+            "title": "Most Profitable Path in a Tree"
         }
     ],
     "03- March": [
