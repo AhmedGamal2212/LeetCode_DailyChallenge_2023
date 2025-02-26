@@ -701,6 +701,10 @@
         {
             "day": "25",
             "title": "Number of Sub-arrays With Odd Sum"
+        },
+        {
+            "day": "26",
+            "title": "Maximum Absolute Sum of Any Subarray"
         }
     ],
     "03- March": [
