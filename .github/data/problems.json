@@ -705,6 +705,10 @@
         {
             "day": "26",
             "title": "Maximum Absolute Sum of Any Subarray"
+        },
+        {
+            "day": "27",
+            "title": "Length of Longest Fibonacci Subsequence"
         }
     ],
     "03- March": [
