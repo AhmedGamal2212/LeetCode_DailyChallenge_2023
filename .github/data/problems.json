@@ -947,6 +947,10 @@
         {
             "day": "31",
             "title": "Count Subarrays With Fixed Bounds"
+        },
+        {
+            "day": "01",
+            "title": "Apply Operations to an Array"
         }
     ],
     "04- April": [
