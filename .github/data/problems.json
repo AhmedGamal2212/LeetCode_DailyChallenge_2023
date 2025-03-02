@@ -951,6 +951,10 @@
         {
             "day": "01",
             "title": "Apply Operations to an Array"
+        },
+        {
+            "day": "02",
+            "title": "Merge Two 2D Arrays by Summing Values"
         }
     ],
     "04- April": [
