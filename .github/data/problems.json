@@ -955,6 +955,10 @@
         {
             "day": "02",
             "title": "Merge Two 2D Arrays by Summing Values"
+        },
+        {
+            "day": "03",
+            "title": "Partition Array According to Given Pivot"
         }
     ],
     "04- April": [
