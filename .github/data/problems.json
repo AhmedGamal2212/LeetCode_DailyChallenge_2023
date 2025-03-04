@@ -959,6 +959,10 @@
         {
             "day": "03",
             "title": "Partition Array According to Given Pivot"
+        },
+        {
+            "day": "04",
+            "title": "Check if Number is a Sum of Powers of Three"
         }
     ],
     "04- April": [
