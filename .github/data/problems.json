@@ -967,6 +967,10 @@
         {
             "day": "05",
             "title": "Count Total Number of Colored Cells"
+        },
+        {
+            "day": "06",
+            "title": "Find Missing and Repeated Values"
         }
     ],
     "04- April": [
