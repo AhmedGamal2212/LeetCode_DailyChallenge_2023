@@ -971,6 +971,10 @@
         {
             "day": "06",
             "title": "Find Missing and Repeated Values"
+        },
+        {
+            "day": "07",
+            "title": "Closest Prime Numbers in Range"
         }
     ],
     "04- April": [
