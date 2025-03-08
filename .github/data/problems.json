@@ -975,6 +975,10 @@
         {
             "day": "07",
             "title": "Closest Prime Numbers in Range"
+        },
+        {
+            "day": "08",
+            "title": "Minimum Recolors to Get K Consecutive Black Blocks"
         }
     ],
     "04- April": [
