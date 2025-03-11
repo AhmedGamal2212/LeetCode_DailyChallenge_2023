@@ -987,6 +987,10 @@
         {
             "day": "10",
             "title": "Count of Substrings Containing Every Vowel and K Consonants II"
+        },
+        {
+            "day": "11",
+            "title": "Number of Substrings Containing All Three Characters"
         }
     ],
     "04- April": [
