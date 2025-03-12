@@ -991,6 +991,10 @@
         {
             "day": "11",
             "title": "Number of Substrings Containing All Three Characters"
+        },
+        {
+            "day": "12",
+            "title": "Maximum Count of Positive Integer and Negative Integer"
         }
     ],
     "04- April": [
