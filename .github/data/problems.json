@@ -1019,6 +1019,10 @@
         {
             "day": "18",
             "title": "Longest Nice Subarray"
+        },
+        {
+            "day": "19",
+            "title": "Minimum Operations to Make Binary Array Elements Equal to One I"
         }
     ],
     "04- April": [
