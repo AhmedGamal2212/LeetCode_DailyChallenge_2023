@@ -1023,6 +1023,10 @@
         {
             "day": "19",
             "title": "Minimum Operations to Make Binary Array Elements Equal to One I"
+        },
+        {
+            "day": "20",
+            "title": "Minimum Cost Walk in Weighted Graph"
         }
     ],
     "04- April": [
