@@ -1047,6 +1047,10 @@
         {
             "day": "25",
             "title": "Check if Grid can be Cut into Sections"
+        },
+        {
+            "day": "26",
+            "title": "Minimum Operations to Make a Uni-Value Grid"
         }
     ],
     "04- April": [
