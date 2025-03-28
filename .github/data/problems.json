@@ -1055,6 +1055,10 @@
         {
             "day": "27",
             "title": "Minimum Index of a Valid Split"
+        },
+        {
+            "day": "28",
+            "title": "Maximum Number of Points From Grid Queries"
         }
     ],
     "04- April": [
