@@ -1325,6 +1325,10 @@
         {
             "day": "03",
             "title": "Maximum Value of an Ordered Triplet II"
+        },
+        {
+            "day": "04",
+            "title": "Lowest Common Ancestor of Deepest Leaves"
         }
     ],
     "05- May": [
