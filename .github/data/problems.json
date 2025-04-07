@@ -1337,6 +1337,10 @@
         {
             "day": "06",
             "title": "Largest Divisible Subset"
+        },
+        {
+            "day": "07",
+            "title": "Partition Equal Subset Sum"
         }
     ],
     "05- May": [
