@@ -1345,6 +1345,10 @@
         {
             "day": "08",
             "title": "Minimum Number of Operations to Make Elements in Array Distinct"
+        },
+        {
+            "day": "09",
+            "title": "Minimum Operations to Make Array Values Equal to K"
         }
     ],
     "05- May": [
