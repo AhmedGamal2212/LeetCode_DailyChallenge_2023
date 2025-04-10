@@ -1349,6 +1349,10 @@
         {
             "day": "09",
             "title": "Minimum Operations to Make Array Values Equal to K"
+        },
+        {
+            "day": "10",
+            "title": "Count the Number of Powerful Integers"
         }
     ],
     "05- May": [
