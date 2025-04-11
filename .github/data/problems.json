@@ -1353,6 +1353,10 @@
         {
             "day": "10",
             "title": "Count the Number of Powerful Integers"
+        },
+        {
+            "day": "11",
+            "title": "  Count Symmetric Integers"
         }
     ],
     "05- May": [
