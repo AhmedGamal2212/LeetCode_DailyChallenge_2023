@@ -1357,6 +1357,10 @@
         {
             "day": "11",
             "title": "  Count Symmetric Integers"
+        },
+        {
+            "day": "12",
+            "title": "Find the Count of Good Integers"
         }
     ],
     "05- May": [
