@@ -1361,6 +1361,10 @@
         {
             "day": "12",
             "title": "Find the Count of Good Integers"
+        },
+        {
+            "day": "13",
+            "title": "Count Good Numbers"
         }
     ],
     "05- May": [
