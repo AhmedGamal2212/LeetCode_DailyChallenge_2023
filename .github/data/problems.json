@@ -1373,6 +1373,10 @@
         {
             "day": "15",
             "title": "Count Good Triplets in an Array"
+        },
+        {
+            "day": "16",
+            "title": "Count the Number of Good Subarrays"
         }
     ],
     "05- May": [
