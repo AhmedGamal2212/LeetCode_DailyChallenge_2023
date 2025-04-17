@@ -1377,6 +1377,10 @@
         {
             "day": "16",
             "title": "Count the Number of Good Subarrays"
+        },
+        {
+            "day": "17",
+            "title": "Count Equal and Divisible Pairs in an Array"
         }
     ],
     "05- May": [
