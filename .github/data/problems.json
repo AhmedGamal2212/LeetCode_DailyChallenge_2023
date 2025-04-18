@@ -1381,6 +1381,10 @@
         {
             "day": "17",
             "title": "Count Equal and Divisible Pairs in an Array"
+        },
+        {
+            "day": "18",
+            "title": "Count and Say"
         }
     ],
     "05- May": [
