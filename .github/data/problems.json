@@ -1397,6 +1397,10 @@
         {
             "day": "21",
             "title": "Count the Hidden Sequences"
+        },
+        {
+            "day": "22",
+            "title": "Count the Number of Ideal Arrays"
         }
     ],
     "05- May": [
