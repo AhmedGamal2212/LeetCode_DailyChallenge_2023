@@ -1405,6 +1405,10 @@
         {
             "day": "23",
             "title": "Count Largest Group"
+        },
+        {
+            "day": "24",
+            "title": "Count Complete Subarrays in an Array"
         }
     ],
     "05- May": [
