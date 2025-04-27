@@ -1417,6 +1417,10 @@
         {
             "day": "26",
             "title": "Count Subarrays With Fixed Bounds"
+        },
+        {
+            "day": "27",
+            "title": "Count Subarrays of Length Three With a Condition"
         }
     ],
     "05- May": [
