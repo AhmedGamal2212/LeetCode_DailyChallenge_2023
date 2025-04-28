@@ -1421,6 +1421,10 @@
         {
             "day": "27",
             "title": "Count Subarrays of Length Three With a Condition"
+        },
+        {
+            "day": "28",
+            "title": "Count Subarrays With Score Less Than K"
         }
     ],
     "05- May": [
