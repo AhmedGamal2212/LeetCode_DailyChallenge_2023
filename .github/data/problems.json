@@ -1429,6 +1429,10 @@
         {
             "day": "29",
             "title": "Count Subarrays Where Max Element Appears at Least K Times"
+        },
+        {
+            "day": "30",
+            "title": "Find Numbers with Even Number of Digits"
         }
     ],
     "05- May": [
