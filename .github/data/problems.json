@@ -1683,6 +1683,10 @@
         {
             "day": "31",
             "title": "Single Number III"
+        },
+        {
+            "day": "01",
+            "title": "Maximum Number of Tasks You Can Assign"
         }
     ],
     "06- June": [
