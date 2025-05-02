@@ -1687,6 +1687,10 @@
         {
             "day": "01",
             "title": "Maximum Number of Tasks You Can Assign"
+        },
+        {
+            "day": "02",
+            "title": "Push Dominoes"
         }
     ],
     "06- June": [
