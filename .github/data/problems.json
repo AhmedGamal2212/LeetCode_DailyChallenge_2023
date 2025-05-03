@@ -1691,6 +1691,10 @@
         {
             "day": "02",
             "title": "Push Dominoes"
+        },
+        {
+            "day": "03",
+            "title": "Minimum Domino Rotations For Equal Row"
         }
     ],
     "06- June": [
