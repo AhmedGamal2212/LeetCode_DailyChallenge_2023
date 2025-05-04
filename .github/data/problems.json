@@ -1695,6 +1695,10 @@
         {
             "day": "03",
             "title": "Minimum Domino Rotations For Equal Row"
+        },
+        {
+            "day": "04",
+            "title": "Number of Equivalent Domino Pairs"
         }
     ],
     "06- June": [
