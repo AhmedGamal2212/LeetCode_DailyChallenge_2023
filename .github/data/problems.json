@@ -1703,6 +1703,10 @@
         {
             "day": "05",
             "title": "Domino and Tromino Tiling"
+        },
+        {
+            "day": "06",
+            "title": "Build Array from Permutation"
         }
     ],
     "06- June": [
