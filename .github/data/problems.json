@@ -1707,6 +1707,10 @@
         {
             "day": "06",
             "title": "Build Array from Permutation"
+        },
+        {
+            "day": "07",
+            "title": "Find Minimum Time to Reach Last Room I"
         }
     ],
     "06- June": [
