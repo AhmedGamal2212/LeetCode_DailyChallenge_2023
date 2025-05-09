@@ -1715,6 +1715,10 @@
         {
             "day": "08",
             "title": "Find Minimum Time to Reach Last Room II"
+        },
+        {
+            "day": "09",
+            "title": "Count Number of Balanced Permutations"
         }
     ],
     "06- June": [
