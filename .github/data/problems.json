@@ -1719,6 +1719,10 @@
         {
             "day": "09",
             "title": "Count Number of Balanced Permutations"
+        },
+        {
+            "day": "10",
+            "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros"
         }
     ],
     "06- June": [
