@@ -1723,6 +1723,10 @@
         {
             "day": "10",
             "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros"
+        },
+        {
+            "day": "11",
+            "title": "Three Consecutive Odds"
         }
     ],
     "06- June": [
