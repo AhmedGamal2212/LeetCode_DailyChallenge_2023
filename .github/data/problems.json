@@ -1775,6 +1775,10 @@
         {
             "day": "23",
             "title": "Find the Maximum Sum of Node Values"
+        },
+        {
+            "day": "24",
+            "title": "Find Words Containing Character"
         }
     ],
     "06- June": [
