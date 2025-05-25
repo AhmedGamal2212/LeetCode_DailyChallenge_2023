@@ -1779,6 +1779,10 @@
         {
             "day": "24",
             "title": "Find Words Containing Character"
+        },
+        {
+            "day": "25",
+            "title": "Longest Palindrome by Concatenating Two Letter Words"
         }
     ],
     "06- June": [
