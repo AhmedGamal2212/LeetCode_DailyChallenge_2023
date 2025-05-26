@@ -1783,6 +1783,10 @@
         {
             "day": "25",
             "title": "Longest Palindrome by Concatenating Two Letter Words"
+        },
+        {
+            "day": "26",
+            "title": "Largest Color Value in a Directed Graph"
         }
     ],
     "06- June": [
