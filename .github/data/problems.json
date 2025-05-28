@@ -1791,6 +1791,10 @@
         {
             "day": "27",
             "title": "Divisible and Non-divisible Sums Difference"
+        },
+        {
+            "day": "28",
+            "title": "Maximize the Number of Target Nodes After Connecting Trees I"
         }
     ],
     "06- June": [
