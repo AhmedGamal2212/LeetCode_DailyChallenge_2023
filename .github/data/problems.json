@@ -1799,6 +1799,10 @@
         {
             "day": "29",
             "title": "Maximize the Number of Target Nodes After Connecting Trees II"
+        },
+        {
+            "day": "30",
+            "title": "Find Closest Node to Given Two Nodes"
         }
     ],
     "06- June": [
