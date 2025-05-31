@@ -1803,6 +1803,10 @@
         {
             "day": "30",
             "title": "Find Closest Node to Given Two Nodes"
+        },
+        {
+            "day": "31",
+            "title": "Snakes and Ladders"
         }
     ],
     "06- June": [
