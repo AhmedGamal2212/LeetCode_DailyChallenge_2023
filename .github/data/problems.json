@@ -2057,6 +2057,10 @@
         {
             "day": "02",
             "title": "Candy"
+        },
+        {
+            "day": "03",
+            "title": "Maximum Candies You Can Get from Boxes"
         }
     ],
     "07- July": [
