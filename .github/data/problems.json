@@ -2065,6 +2065,10 @@
         {
             "day": "04",
             "title": "Find the Lexicographically Largest String From the Box I"
+        },
+        {
+            "day": "05",
+            "title": "Lexicographically Smallest Equivalent String"
         }
     ],
     "07- July": [
