@@ -2069,6 +2069,10 @@
         {
             "day": "05",
             "title": "Lexicographically Smallest Equivalent String"
+        },
+        {
+            "day": "06",
+            "title": "Using a Robot to Print the Lexicographically Smallest String"
         }
     ],
     "07- July": [
