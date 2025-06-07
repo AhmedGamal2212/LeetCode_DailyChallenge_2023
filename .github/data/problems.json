@@ -2073,6 +2073,10 @@
         {
             "day": "06",
             "title": "Using a Robot to Print the Lexicographically Smallest String"
+        },
+        {
+            "day": "07",
+            "title": "Lexicographically Minimum String After Removing Stars"
         }
     ],
     "07- July": [
