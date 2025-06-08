@@ -2077,6 +2077,10 @@
         {
             "day": "07",
             "title": "Lexicographically Minimum String After Removing Stars"
+        },
+        {
+            "day": "08",
+            "title": "Lexicographical Numbers"
         }
     ],
     "07- July": [
