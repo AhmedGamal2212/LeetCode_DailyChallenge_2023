@@ -2081,6 +2081,10 @@
         {
             "day": "08",
             "title": "Lexicographical Numbers"
+        },
+        {
+            "day": "09",
+            "title": "K-th Smallest in Lexicographical Order"
         }
     ],
     "07- July": [
