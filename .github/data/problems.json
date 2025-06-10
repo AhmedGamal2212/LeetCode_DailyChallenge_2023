@@ -2085,6 +2085,10 @@
         {
             "day": "09",
             "title": "K-th Smallest in Lexicographical Order"
+        },
+        {
+            "day": "10",
+            "title": "Maximum Difference Between Even and Odd Frequency I"
         }
     ],
     "07- July": [
