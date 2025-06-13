@@ -2097,6 +2097,10 @@
         {
             "day": "12",
             "title": "Maximum Difference Between Adjacent Elements in a Circular Array"
+        },
+        {
+            "day": "13",
+            "title": "Minimize the Maximum Difference of Pairs"
         }
     ],
     "07- July": [
