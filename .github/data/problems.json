@@ -2105,6 +2105,10 @@
         {
             "day": "14",
             "title": "Maximum Difference by Remapping a Digit"
+        },
+        {
+            "day": "15",
+            "title": "Max Difference You Can Get From Changing an Integer"
         }
     ],
     "07- July": [
