@@ -2121,6 +2121,10 @@
         {
             "day": "18",
             "title": "Divide Array Into Arrays With Max Difference"
+        },
+        {
+            "day": "19",
+            "title": "Partition Array Such That Maximum Difference Is K"
         }
     ],
     "07- July": [
