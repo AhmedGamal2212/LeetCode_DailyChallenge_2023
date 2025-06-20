@@ -2125,6 +2125,10 @@
         {
             "day": "19",
             "title": "Partition Array Such That Maximum Difference Is K"
+        },
+        {
+            "day": "20",
+            "title": "Maximum Manhattan Distance After K Changes"
         }
     ],
     "07- July": [
