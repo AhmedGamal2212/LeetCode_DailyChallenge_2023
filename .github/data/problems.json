@@ -2129,6 +2129,10 @@
         {
             "day": "20",
             "title": "Maximum Manhattan Distance After K Changes"
+        },
+        {
+            "day": "21",
+            "title": "Minimum Deletions to Make String K-Special"
         }
     ],
     "07- July": [
