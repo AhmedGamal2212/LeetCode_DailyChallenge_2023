@@ -2133,6 +2133,10 @@
         {
             "day": "21",
             "title": "Minimum Deletions to Make String K-Special"
+        },
+        {
+            "day": "22",
+            "title": "Divide a String Into Groups of Size k"
         }
     ],
     "07- July": [
