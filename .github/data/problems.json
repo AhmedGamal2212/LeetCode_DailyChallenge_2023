@@ -2137,6 +2137,10 @@
         {
             "day": "22",
             "title": "Divide a String Into Groups of Size k"
+        },
+        {
+            "day": "23",
+            "title": "Sum of k-Mirror Numbers"
         }
     ],
     "07- July": [
