@@ -2141,6 +2141,10 @@
         {
             "day": "23",
             "title": "Sum of k-Mirror Numbers"
+        },
+        {
+            "day": "24",
+            "title": "Find All K-Distant Indices in an Array"
         }
     ],
     "07- July": [
