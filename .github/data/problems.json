@@ -2145,6 +2145,10 @@
         {
             "day": "24",
             "title": "Find All K-Distant Indices in an Array"
+        },
+        {
+            "day": "25",
+            "title": "Kth Smallest Product of Two Sorted Arrays"
         }
     ],
     "07- July": [
