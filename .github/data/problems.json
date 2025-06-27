@@ -2153,6 +2153,10 @@
         {
             "day": "26",
             "title": "Longest Binary Subsequence Less Than or Equal to K"
+        },
+        {
+            "day": "27",
+            "title": "Longest Subsequence Repeated k Times"
         }
     ],
     "07- July": [
