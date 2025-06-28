@@ -2157,6 +2157,10 @@
         {
             "day": "27",
             "title": "Longest Subsequence Repeated k Times"
+        },
+        {
+            "day": "28",
+            "title": "Find Subsequence of Length K With the Largest Sum"
         }
     ],
     "07- July": [
