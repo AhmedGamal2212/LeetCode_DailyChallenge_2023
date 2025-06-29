@@ -2161,6 +2161,10 @@
         {
             "day": "28",
             "title": "Find Subsequence of Length K With the Largest Sum"
+        },
+        {
+            "day": "29",
+            "title": "Number of Subsequences That Satisfy the Given Sum Condition"
         }
     ],
     "07- July": [
