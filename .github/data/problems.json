@@ -2165,6 +2165,10 @@
         {
             "day": "29",
             "title": "Number of Subsequences That Satisfy the Given Sum Condition"
+        },
+        {
+            "day": "30",
+            "title": "Longest Harmonious Subsequence"
         }
     ],
     "07- July": [
