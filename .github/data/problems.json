@@ -2435,6 +2435,10 @@
         {
             "day": "04",
             "title": "Find the K-th Character in String Game II"
+        },
+        {
+            "day": "05",
+            "title": "Find Lucky Integer in an Array"
         }
     ],
     "08- August": [
