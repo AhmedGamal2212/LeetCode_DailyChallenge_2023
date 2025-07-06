@@ -2439,6 +2439,10 @@
         {
             "day": "05",
             "title": "Find Lucky Integer in an Array"
+        },
+        {
+            "day": "06",
+            "title": "Finding Pairs With a Certain Sum"
         }
     ],
     "08- August": [
