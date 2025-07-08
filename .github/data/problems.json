@@ -2447,6 +2447,10 @@
         {
             "day": "07",
             "title": "Maximum Number of Events That Can Be Attended"
+        },
+        {
+            "day": "08",
+            "title": "Maximum Number of Events That Can Be Attended II"
         }
     ],
     "08- August": [
