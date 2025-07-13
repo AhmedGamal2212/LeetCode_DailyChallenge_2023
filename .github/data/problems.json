@@ -2467,6 +2467,10 @@
         {
             "day": "12",
             "title": "The Earliest and Latest Rounds Where Players Compete"
+        },
+        {
+            "day": "13",
+            "title": "Maximum Matching of Players With Trainers"
         }
     ],
     "08- August": [
