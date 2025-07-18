@@ -2487,6 +2487,10 @@
         {
             "day": "17",
             "title": "Find the Maximum Length of Valid Subsequence II"
+        },
+        {
+            "day": "18",
+            "title": "Minimum Difference in Sums After Removal of Elements"
         }
     ],
     "08- August": [
