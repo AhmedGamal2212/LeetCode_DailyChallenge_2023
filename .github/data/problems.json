@@ -2495,6 +2495,10 @@
         {
             "day": "19",
             "title": "Remove Sub-Folders from the Filesystem"
+        },
+        {
+            "day": "20",
+            "title": "Delete Duplicate Folders in System"
         }
     ],
     "08- August": [
