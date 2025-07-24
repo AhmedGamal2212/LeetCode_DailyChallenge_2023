@@ -2511,6 +2511,10 @@
         {
             "day": "23",
             "title": "Maximum Score From Removing Substrings"
+        },
+        {
+            "day": "24",
+            "title": "Minimum Score After Removals on a Tree"
         }
     ],
     "08- August": [
