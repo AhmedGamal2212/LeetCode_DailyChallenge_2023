@@ -2515,6 +2515,10 @@
         {
             "day": "24",
             "title": "Minimum Score After Removals on a Tree"
+        },
+        {
+            "day": "25",
+            "title": "Maximum Unique Subarray Sum After Deletion"
         }
     ],
     "08- August": [
