@@ -2519,6 +2519,10 @@
         {
             "day": "25",
             "title": "Maximum Unique Subarray Sum After Deletion"
+        },
+        {
+            "day": "26",
+            "title": "Maximize Subarrays After Removing One Conflicting Pair"
         }
     ],
     "08- August": [
