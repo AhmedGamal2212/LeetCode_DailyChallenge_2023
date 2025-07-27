@@ -2523,6 +2523,10 @@
         {
             "day": "26",
             "title": "Maximize Subarrays After Removing One Conflicting Pair"
+        },
+        {
+            "day": "27",
+            "title": "Count Hills and Valleys in an Array"
         }
     ],
     "08- August": [
