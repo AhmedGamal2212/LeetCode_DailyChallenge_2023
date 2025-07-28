@@ -2527,6 +2527,10 @@
         {
             "day": "27",
             "title": "Count Hills and Valleys in an Array"
+        },
+        {
+            "day": "28",
+            "title": "Count Number of Maximum Bitwise-OR Subsets"
         }
     ],
     "08- August": [
