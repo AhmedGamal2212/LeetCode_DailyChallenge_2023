@@ -2531,6 +2531,10 @@
         {
             "day": "28",
             "title": "Count Number of Maximum Bitwise-OR Subsets"
+        },
+        {
+            "day": "29",
+            "title": "Smallest Subarrays With Maximum Bitwise OR"
         }
     ],
     "08- August": [
