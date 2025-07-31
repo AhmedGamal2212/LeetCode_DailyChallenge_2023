@@ -2539,6 +2539,10 @@
         {
             "day": "30",
             "title": "Longest Subarray With Maximum Bitwise AND"
+        },
+        {
+            "day": "31",
+            "title": "Bitwise ORs of Subarrays"
         }
     ],
     "08- August": [
