@@ -2793,6 +2793,10 @@
         {
             "day": "31",
             "title": "Path with Maximum Probability"
+        },
+        {
+            "day": "01",
+            "title": "Pascal's Triangle"
         }
     ],
     "09- September": [
