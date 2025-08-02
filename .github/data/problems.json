@@ -2797,6 +2797,10 @@
         {
             "day": "01",
             "title": "Pascal's Triangle"
+        },
+        {
+            "day": "02",
+            "title": "Rearranging Fruits"
         }
     ],
     "09- September": [
