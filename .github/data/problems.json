@@ -2801,6 +2801,10 @@
         {
             "day": "02",
             "title": "Rearranging Fruits"
+        },
+        {
+            "day": "03",
+            "title": "Maximum Fruits Harvested After at Most K Steps"
         }
     ],
     "09- September": [
