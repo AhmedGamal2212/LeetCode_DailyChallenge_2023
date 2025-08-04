@@ -2805,6 +2805,10 @@
         {
             "day": "03",
             "title": "Maximum Fruits Harvested After at Most K Steps"
+        },
+        {
+            "day": "04",
+            "title": "Fruit Into Baskets"
         }
     ],
     "09- September": [
