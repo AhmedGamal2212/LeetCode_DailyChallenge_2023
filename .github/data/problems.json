@@ -2833,6 +2833,10 @@
         {
             "day": "10",
             "title": "Reordered Power of 2"
+        },
+        {
+            "day": "11",
+            "title": "Range Product Queries of Powers"
         }
     ],
     "09- September": [
