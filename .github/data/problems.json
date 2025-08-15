@@ -2849,6 +2849,10 @@
         {
             "day": "14",
             "title": "Largest 3-Same-Digit Number in String"
+        },
+        {
+            "day": "15",
+            "title": "Power of Four"
         }
     ],
     "09- September": [
