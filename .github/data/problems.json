@@ -2873,6 +2873,10 @@
         {
             "day": "20",
             "title": "Count Square Submatrices with All Ones"
+        },
+        {
+            "day": "21",
+            "title": "Count Submatrices With All Ones"
         }
     ],
     "09- September": [
