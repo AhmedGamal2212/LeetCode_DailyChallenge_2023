@@ -2885,6 +2885,10 @@
         {
             "day": "23",
             "title": "Find the Minimum Area to Cover All Ones II"
+        },
+        {
+            "day": "24",
+            "title": "Longest Subarray of 1's After Deleting One Element"
         }
     ],
     "09- September": [
