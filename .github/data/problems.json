@@ -2889,6 +2889,10 @@
         {
             "day": "24",
             "title": "Longest Subarray of 1's After Deleting One Element"
+        },
+        {
+            "day": "25",
+            "title": "Diagonal Traverse"
         }
     ],
     "09- September": [
