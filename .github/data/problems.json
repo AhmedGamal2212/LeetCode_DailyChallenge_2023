@@ -2893,6 +2893,10 @@
         {
             "day": "25",
             "title": "Diagonal Traverse"
+        },
+        {
+            "day": "26",
+            "title": "Maximum Area of Longest Diagonal Rectangle"
         }
     ],
     "09- September": [
