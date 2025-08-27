@@ -2897,6 +2897,10 @@
         {
             "day": "26",
             "title": "Maximum Area of Longest Diagonal Rectangle"
+        },
+        {
+            "day": "27",
+            "title": "Length of Longest V-Shaped Diagonal Segment"
         }
     ],
     "09- September": [
