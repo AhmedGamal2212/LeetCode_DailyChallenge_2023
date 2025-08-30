@@ -2909,6 +2909,10 @@
         {
             "day": "29",
             "title": "Alice and Bob Playing Flower Game"
+        },
+        {
+            "day": "30",
+            "title": "Valid Sudoku"
         }
     ],
     "09- September": [
