@@ -2913,6 +2913,10 @@
         {
             "day": "30",
             "title": "Valid Sudoku"
+        },
+        {
+            "day": "31",
+            "title": "Sudoku Solver"
         }
     ],
     "09- September": [
