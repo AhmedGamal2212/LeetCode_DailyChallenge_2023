@@ -3179,6 +3179,10 @@
         {
             "day": "05",
             "title": "Minimum Operations to Make the Integer Zero"
+        },
+        {
+            "day": "06",
+            "title": "Minimum Operations to Make Array Elements Zero"
         }
     ],
     "10- October": [
