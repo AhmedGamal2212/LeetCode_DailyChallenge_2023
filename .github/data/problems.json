@@ -3183,6 +3183,10 @@
         {
             "day": "06",
             "title": "Minimum Operations to Make Array Elements Zero"
+        },
+        {
+            "day": "07",
+            "title": "Find N Unique Integers Sum up to Zero"
         }
     ],
     "10- October": [
