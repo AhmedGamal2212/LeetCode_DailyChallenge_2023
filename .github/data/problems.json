@@ -3187,6 +3187,10 @@
         {
             "day": "07",
             "title": "Find N Unique Integers Sum up to Zero"
+        },
+        {
+            "day": "08",
+            "title": "Convert Integer to the Sum of Two No-Zero Integers"
         }
     ],
     "10- October": [
