@@ -3199,6 +3199,10 @@
         {
             "day": "10",
             "title": "Minimum Number of People to Teach"
+        },
+        {
+            "day": "11",
+            "title": "Sort Vowels in a String"
         }
     ],
     "10- October": [
