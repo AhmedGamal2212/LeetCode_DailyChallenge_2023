@@ -3267,6 +3267,10 @@
         {
             "day": "27",
             "title": "Largest Triangle Area"
+        },
+        {
+            "day": "28",
+            "title": "Largest Perimeter Triangle"
         }
     ],
     "10- October": [
