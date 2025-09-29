@@ -3271,6 +3271,10 @@
         {
             "day": "28",
             "title": "Largest Perimeter Triangle"
+        },
+        {
+            "day": "29",
+            "title": "Minimum Score Triangulation of Polygon"
         }
     ],
     "10- October": [
