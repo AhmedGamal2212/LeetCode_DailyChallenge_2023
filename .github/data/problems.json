@@ -3561,6 +3561,10 @@
         {
             "day": "08",
             "title": "Successful Pairs of Spells and Potions"
+        },
+        {
+            "day": "09",
+            "title": "Find the Minimum Amount of Time to Brew Potions"
         }
     ],
     "11- November": [
