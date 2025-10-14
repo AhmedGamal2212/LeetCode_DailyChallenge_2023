@@ -3581,6 +3581,10 @@
         {
             "day": "13",
             "title": "Find Resultant Array After Removing Anagrams"
+        },
+        {
+            "day": "14",
+            "title": "Adjacent Increasing Subarrays Detection I"
         }
     ],
     "11- November": [
