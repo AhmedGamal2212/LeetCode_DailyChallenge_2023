@@ -3589,6 +3589,10 @@
         {
             "day": "15",
             "title": "Adjacent Increasing Subarrays Detection II"
+        },
+        {
+            "day": "16",
+            "title": "Smallest Missing Non-negative Integer After Operations"
         }
     ],
     "11- November": [
