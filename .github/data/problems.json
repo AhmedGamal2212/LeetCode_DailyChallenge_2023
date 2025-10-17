@@ -3593,6 +3593,10 @@
         {
             "day": "16",
             "title": "Smallest Missing Non-negative Integer After Operations"
+        },
+        {
+            "day": "17",
+            "title": "Maximize the Number of Partitions After Operations"
         }
     ],
     "11- November": [
