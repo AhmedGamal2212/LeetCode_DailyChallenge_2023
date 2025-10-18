@@ -3597,6 +3597,10 @@
         {
             "day": "17",
             "title": "Maximize the Number of Partitions After Operations"
+        },
+        {
+            "day": "18",
+            "title": "Maximum Number of Distinct Elements After Operations"
         }
     ],
     "11- November": [
