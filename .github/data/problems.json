@@ -3601,6 +3601,10 @@
         {
             "day": "18",
             "title": "Maximum Number of Distinct Elements After Operations"
+        },
+        {
+            "day": "19",
+            "title": "Lexicographically Smallest String After Applying Operations"
         }
     ],
     "11- November": [
