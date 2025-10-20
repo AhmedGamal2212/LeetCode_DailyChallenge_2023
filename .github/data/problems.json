@@ -3605,6 +3605,10 @@
         {
             "day": "19",
             "title": "Lexicographically Smallest String After Applying Operations"
+        },
+        {
+            "day": "20",
+            "title": "Final Value of Variable After Performing Operations"
         }
     ],
     "11- November": [
