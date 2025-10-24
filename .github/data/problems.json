@@ -3621,6 +3621,10 @@
         {
             "day": "23",
             "title": "Check If Digits Are Equal in String After Operations I"
+        },
+        {
+            "day": "24",
+            "title": "Next Greater Numerically Balanced Number"
         }
     ],
     "11- November": [
