@@ -3625,6 +3625,10 @@
         {
             "day": "24",
             "title": "Next Greater Numerically Balanced Number"
+        },
+        {
+            "day": "25",
+            "title": "Calculate Money in Leetcode Bank"
         }
     ],
     "11- November": [
