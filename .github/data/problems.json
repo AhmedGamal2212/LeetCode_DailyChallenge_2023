@@ -3641,6 +3641,10 @@
         {
             "day": "28",
             "title": "Make Array Elements Equal to Zero"
+        },
+        {
+            "day": "29",
+            "title": "Smallest Number With All Set Bits"
         }
     ],
     "11- November": [
