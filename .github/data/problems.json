@@ -3645,6 +3645,10 @@
         {
             "day": "29",
             "title": "Smallest Number With All Set Bits"
+        },
+        {
+            "day": "30",
+            "title": "Minimum Number of Increments on Subarrays to Form a Target Array"
         }
     ],
     "11- November": [
