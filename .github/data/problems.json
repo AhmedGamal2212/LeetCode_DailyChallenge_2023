@@ -3895,6 +3895,10 @@
         {
             "day": "30",
             "title": "Valid Arrangement of Pairs"
+        },
+        {
+            "day": "01",
+            "title": "Delete Nodes From Linked List Present in Array"
         }
     ],
     "12- December": [
