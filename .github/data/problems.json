@@ -3899,6 +3899,10 @@
         {
             "day": "01",
             "title": "Delete Nodes From Linked List Present in Array"
+        },
+        {
+            "day": "02",
+            "title": "Count Unguarded Cells in the Grid"
         }
     ],
     "12- December": [
