@@ -3903,6 +3903,10 @@
         {
             "day": "02",
             "title": "Count Unguarded Cells in the Grid"
+        },
+        {
+            "day": "03",
+            "title": "Minimum Time to Make Rope Colorful"
         }
     ],
     "12- December": [
