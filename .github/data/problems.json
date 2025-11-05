@@ -3911,6 +3911,10 @@
         {
             "day": "04",
             "title": "Find X-Sum of All K-Long Subarrays I"
+        },
+        {
+            "day": "05",
+            "title": "Find X-Sum of All K-Long Subarrays II"
         }
     ],
     "12- December": [
