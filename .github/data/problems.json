@@ -3927,6 +3927,10 @@
         {
             "day": "08",
             "title": "Minimum One Bit Operations to Make Integers Zero"
+        },
+        {
+            "day": "09",
+            "title": "Count Operations to Obtain Zero"
         }
     ],
     "12- December": [
