@@ -3931,6 +3931,10 @@
         {
             "day": "09",
             "title": "Count Operations to Obtain Zero"
+        },
+        {
+            "day": "10",
+            "title": "Minimum Operations to Convert All Elements to Zero"
         }
     ],
     "12- December": [
