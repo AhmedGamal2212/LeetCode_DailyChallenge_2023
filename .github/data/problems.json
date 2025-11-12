@@ -3939,6 +3939,10 @@
         {
             "day": "11",
             "title": "Ones and Zeroes"
+        },
+        {
+            "day": "12",
+            "title": "Minimum Number of Operations to Make All Array Elements Equal to 1"
         }
     ],
     "12- December": [
