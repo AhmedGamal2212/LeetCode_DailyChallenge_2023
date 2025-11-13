@@ -3943,6 +3943,10 @@
         {
             "day": "12",
             "title": "Minimum Number of Operations to Make All Array Elements Equal to 1"
+        },
+        {
+            "day": "13",
+            "title": "Maximum Number of Operations to Move Ones to the End"
         }
     ],
     "12- December": [
