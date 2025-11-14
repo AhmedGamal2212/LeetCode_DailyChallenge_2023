@@ -3947,6 +3947,10 @@
         {
             "day": "13",
             "title": "Maximum Number of Operations to Move Ones to the End"
+        },
+        {
+            "day": "14",
+            "title": "Increment Submatrices by One"
         }
     ],
     "12- December": [
