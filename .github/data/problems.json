@@ -3951,6 +3951,10 @@
         {
             "day": "14",
             "title": "Increment Submatrices by One"
+        },
+        {
+            "day": "15",
+            "title": "Count the Number of Substrings With Dominant Ones"
         }
     ],
     "12- December": [
