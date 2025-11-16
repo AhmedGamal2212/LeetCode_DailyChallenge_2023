@@ -3955,6 +3955,10 @@
         {
             "day": "15",
             "title": "Count the Number of Substrings With Dominant Ones"
+        },
+        {
+            "day": "16",
+            "title": "Number of Substrings With Only 1s"
         }
     ],
     "12- December": [
