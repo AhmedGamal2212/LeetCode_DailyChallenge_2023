@@ -3975,6 +3975,10 @@
         {
             "day": "20",
             "title": "Set Intersection Size At Least Two"
+        },
+        {
+            "day": "21",
+            "title": "Unique Length-3 Palindromic Subsequences"
         }
     ],
     "12- December": [
