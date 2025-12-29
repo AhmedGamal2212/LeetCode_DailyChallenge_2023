@@ -4377,6 +4377,10 @@
         {
             "day": "28",
             "title": "Count Negative Numbers in a Sorted Matrix"
+        },
+        {
+            "day": "29",
+            "title": "Pyramid Transition Matrix"
         }
     ]
 }
