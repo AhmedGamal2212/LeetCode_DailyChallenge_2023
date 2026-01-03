@@ -379,6 +379,10 @@
         {
             "day": "02",
             "title": "N-Repeated Element in Size 2N Array"
+        },
+        {
+            "day": "03",
+            "title": "Number of Ways to Paint N \u00d7 3 Grid"
         }
     ],
     "02- February": [
