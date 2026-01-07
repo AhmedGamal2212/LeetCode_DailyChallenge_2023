@@ -395,6 +395,10 @@
         {
             "day": "06",
             "title": "Maximum Level Sum of a Binary Tree"
+        },
+        {
+            "day": "07",
+            "title": "Maximum Product of Splitted Binary Tree"
         }
     ],
     "02- February": [
