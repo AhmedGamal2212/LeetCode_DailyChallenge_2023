@@ -403,6 +403,10 @@
         {
             "day": "08",
             "title": "Max Dot Product of Two Subsequences"
+        },
+        {
+            "day": "09",
+            "title": "Smallest Subtree with all the Deepest Nodes"
         }
     ],
     "02- February": [
