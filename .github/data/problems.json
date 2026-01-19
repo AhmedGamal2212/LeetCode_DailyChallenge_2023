@@ -443,6 +443,10 @@
         {
             "day": "18",
             "title": "Largest Magic Square"
+        },
+        {
+            "day": "19",
+            "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold"
         }
     ],
     "02- February": [
