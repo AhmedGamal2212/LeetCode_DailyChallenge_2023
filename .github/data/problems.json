@@ -447,6 +447,10 @@
         {
             "day": "19",
             "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold"
+        },
+        {
+            "day": "20",
+            "title": "Construct the Minimum Bitwise Array I"
         }
     ],
     "02- February": [
