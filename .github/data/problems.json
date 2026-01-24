@@ -463,6 +463,10 @@
         {
             "day": "23",
             "title": "Minimum Pair Removal to Sort Array II"
+        },
+        {
+            "day": "24",
+            "title": "Minimize Maximum Pair Sum in Array"
         }
     ],
     "02- February": [
