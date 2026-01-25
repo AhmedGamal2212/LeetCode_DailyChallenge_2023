@@ -467,6 +467,10 @@
         {
             "day": "24",
             "title": "Minimize Maximum Pair Sum in Array"
+        },
+        {
+            "day": "25",
+            "title": "Minimum Difference Between Highest and Lowest of K Scores"
         }
     ],
     "02- February": [
