@@ -479,6 +479,10 @@
         {
             "day": "27",
             "title": "Minimum Cost Path with Edge Reversals"
+        },
+        {
+            "day": "28",
+            "title": "Minimum Cost Path with Teleportations"
         }
     ],
     "02- February": [
