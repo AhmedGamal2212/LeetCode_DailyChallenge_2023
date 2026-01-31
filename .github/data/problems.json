@@ -491,6 +491,10 @@
         {
             "day": "30",
             "title": "Minimum Cost to Convert String II"
+        },
+        {
+            "day": "31",
+            "title": "Find Smallest Letter Greater Than Target"
         }
     ],
     "02- February": [
