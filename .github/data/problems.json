@@ -857,6 +857,10 @@
         {
             "day": "05",
             "title": "Transformed Array"
+        },
+        {
+            "day": "06",
+            "title": "Minimum Removals to Balance Array"
         }
     ],
     "03- March": [
