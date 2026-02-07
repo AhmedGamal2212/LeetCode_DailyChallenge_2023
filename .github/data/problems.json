@@ -861,6 +861,10 @@
         {
             "day": "06",
             "title": "Minimum Removals to Balance Array"
+        },
+        {
+            "day": "07",
+            "title": "Minimum Deletions to Make String Balanced"
         }
     ],
     "03- March": [
