@@ -865,6 +865,10 @@
         {
             "day": "07",
             "title": "Minimum Deletions to Make String Balanced"
+        },
+        {
+            "day": "08",
+            "title": "Balanced Binary Tree"
         }
     ],
     "03- March": [
