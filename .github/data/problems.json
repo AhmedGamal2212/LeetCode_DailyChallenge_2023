@@ -881,6 +881,10 @@
         {
             "day": "11",
             "title": "Longest Balanced Subarray II"
+        },
+        {
+            "day": "12",
+            "title": "Longest Balanced Substring I"
         }
     ],
     "03- March": [
