@@ -921,6 +921,10 @@
         {
             "day": "21",
             "title": "Prime Number of Set Bits in Binary Representation"
+        },
+        {
+            "day": "22",
+            "title": "Binary Gap"
         }
     ],
     "03- March": [
