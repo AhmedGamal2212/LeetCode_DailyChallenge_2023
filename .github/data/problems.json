@@ -933,6 +933,10 @@
         {
             "day": "24",
             "title": "Sum of Root To Leaf Binary Numbers"
+        },
+        {
+            "day": "25",
+            "title": "Sort Integers by The Number of 1 Bits"
         }
     ],
     "03- March": [
