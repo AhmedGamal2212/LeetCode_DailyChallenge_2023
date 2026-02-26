@@ -937,6 +937,10 @@
         {
             "day": "25",
             "title": "Sort Integers by The Number of 1 Bits"
+        },
+        {
+            "day": "26",
+            "title": "Number of Steps to Reduce a Number in Binary Representation to One"
         }
     ],
     "03- March": [
