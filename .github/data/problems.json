@@ -1319,6 +1319,10 @@
         {
             "day": "03",
             "title": "Find Kth Bit in Nth Binary String"
+        },
+        {
+            "day": "04",
+            "title": "Special Positions in a Binary Matrix"
         }
     ],
     "04- April": [
