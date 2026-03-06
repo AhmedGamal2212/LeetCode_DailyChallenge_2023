@@ -1327,6 +1327,10 @@
         {
             "day": "05",
             "title": "Minimum Changes To Make Alternating Binary String"
+        },
+        {
+            "day": "06",
+            "title": "Check if Binary String Has at Most One Segment of Ones"
         }
     ],
     "04- April": [
