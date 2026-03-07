@@ -1331,6 +1331,10 @@
         {
             "day": "06",
             "title": "Check if Binary String Has at Most One Segment of Ones"
+        },
+        {
+            "day": "07",
+            "title": "Minimum Number of Flips to Make the Binary String Alternating"
         }
     ],
     "04- April": [
