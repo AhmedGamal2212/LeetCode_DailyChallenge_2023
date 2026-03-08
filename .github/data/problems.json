@@ -1335,6 +1335,10 @@
         {
             "day": "07",
             "title": "Minimum Number of Flips to Make the Binary String Alternating"
+        },
+        {
+            "day": "08",
+            "title": "Find Unique Binary String"
         }
     ],
     "04- April": [
