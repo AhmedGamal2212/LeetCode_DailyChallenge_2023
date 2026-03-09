@@ -1339,6 +1339,10 @@
         {
             "day": "08",
             "title": "Find Unique Binary String"
+        },
+        {
+            "day": "09",
+            "title": "Find All Possible Stable Binary Arrays I"
         }
     ],
     "04- April": [
