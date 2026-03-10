@@ -1343,6 +1343,10 @@
         {
             "day": "09",
             "title": "Find All Possible Stable Binary Arrays I"
+        },
+        {
+            "day": "10",
+            "title": "Find All Possible Stable Binary Arrays II"
         }
     ],
     "04- April": [
