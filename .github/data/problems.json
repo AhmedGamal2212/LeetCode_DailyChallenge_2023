@@ -1359,6 +1359,10 @@
         {
             "day": "13",
             "title": "Minimum Number of Seconds to Make Mountain Height Zero"
+        },
+        {
+            "day": "14",
+            "title": "The k-th Lexicographical String of All Happy Strings of Length n"
         }
     ],
     "04- April": [
