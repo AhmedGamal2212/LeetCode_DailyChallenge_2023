@@ -1379,6 +1379,10 @@
         {
             "day": "18",
             "title": "Count Submatrices with Top-Left Element and Sum Less Than k"
+        },
+        {
+            "day": "19",
+            "title": "Count Submatrices With Equal Frequency of X and Y"
         }
     ],
     "04- April": [
