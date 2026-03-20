@@ -1383,6 +1383,10 @@
         {
             "day": "19",
             "title": "Count Submatrices With Equal Frequency of X and Y"
+        },
+        {
+            "day": "20",
+            "title": "Minimum Absolute Difference in Sliding Submatrix"
         }
     ],
     "04- April": [
