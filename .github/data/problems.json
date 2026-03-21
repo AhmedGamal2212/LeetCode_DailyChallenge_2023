@@ -1387,6 +1387,10 @@
         {
             "day": "20",
             "title": "Minimum Absolute Difference in Sliding Submatrix"
+        },
+        {
+            "day": "21",
+            "title": "Flip Square Submatrix Vertically"
         }
     ],
     "04- April": [
