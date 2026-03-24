@@ -1399,6 +1399,10 @@
         {
             "day": "23",
             "title": "Maximum Non Negative Product in a Matrix"
+        },
+        {
+            "day": "24",
+            "title": "Construct Product Matrix"
         }
     ],
     "04- April": [
