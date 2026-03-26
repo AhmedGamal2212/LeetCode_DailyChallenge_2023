@@ -1407,6 +1407,10 @@
         {
             "day": "25",
             "title": "Equal Sum Grid Partition I"
+        },
+        {
+            "day": "26",
+            "title": "Equal Sum Grid Partition II"
         }
     ],
     "04- April": [
