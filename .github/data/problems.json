@@ -1411,6 +1411,10 @@
         {
             "day": "26",
             "title": "Equal Sum Grid Partition II"
+        },
+        {
+            "day": "27",
+            "title": "Matrix Similarity After Cyclic Shifts"
         }
     ],
     "04- April": [
