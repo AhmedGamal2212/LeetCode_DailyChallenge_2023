@@ -1415,6 +1415,10 @@
         {
             "day": "27",
             "title": "Matrix Similarity After Cyclic Shifts"
+        },
+        {
+            "day": "28",
+            "title": "Find the String with LCP"
         }
     ],
     "04- April": [
