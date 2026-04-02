@@ -1797,6 +1797,10 @@
         {
             "day": "01",
             "title": "Robot Collisions"
+        },
+        {
+            "day": "02",
+            "title": "Maximum Amount of Money Robot Can Earn"
         }
     ],
     "05- May": [
