@@ -1801,6 +1801,10 @@
         {
             "day": "02",
             "title": "Maximum Amount of Money Robot Can Earn"
+        },
+        {
+            "day": "03",
+            "title": "Maximum Walls Destroyed by Robots"
         }
     ],
     "05- May": [
