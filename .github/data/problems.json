@@ -1805,6 +1805,10 @@
         {
             "day": "03",
             "title": "Maximum Walls Destroyed by Robots"
+        },
+        {
+            "day": "04",
+            "title": "Decode the Slanted Ciphertext"
         }
     ],
     "05- May": [
