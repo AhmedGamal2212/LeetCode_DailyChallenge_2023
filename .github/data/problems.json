@@ -1813,6 +1813,10 @@
         {
             "day": "05",
             "title": "Robot Return to Origin"
+        },
+        {
+            "day": "06",
+            "title": "Walking Robot Simulation"
         }
     ],
     "05- May": [
