@@ -1825,6 +1825,10 @@
         {
             "day": "08",
             "title": "XOR After Range Multiplication Queries I"
+        },
+        {
+            "day": "09",
+            "title": "XOR After Range Multiplication Queries II"
         }
     ],
     "05- May": [
