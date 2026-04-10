@@ -1829,6 +1829,10 @@
         {
             "day": "09",
             "title": "XOR After Range Multiplication Queries II"
+        },
+        {
+            "day": "10",
+            "title": "Minimum Distance Between Three Equal Elements I"
         }
     ],
     "05- May": [
