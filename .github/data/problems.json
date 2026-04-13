@@ -1841,6 +1841,10 @@
         {
             "day": "12",
             "title": "Minimum Distance to Type a Word Using Two Fingers"
+        },
+        {
+            "day": "13",
+            "title": "Minimum Distance to the Target Element"
         }
     ],
     "05- May": [
