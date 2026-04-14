@@ -1845,6 +1845,10 @@
         {
             "day": "13",
             "title": "Minimum Distance to the Target Element"
+        },
+        {
+            "day": "14",
+            "title": "Minimum Total Distance Traveled"
         }
     ],
     "05- May": [
