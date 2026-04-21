@@ -1873,6 +1873,10 @@
         {
             "day": "20",
             "title": "Two Furthest Houses With Different Colors"
+        },
+        {
+            "day": "21",
+            "title": "Minimize Hamming Distance After Swap Operations"
         }
     ],
     "05- May": [
