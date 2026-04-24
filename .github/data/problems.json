@@ -1885,6 +1885,10 @@
         {
             "day": "23",
             "title": "Sum of Distances"
+        },
+        {
+            "day": "24",
+            "title": "Furthest Point From Origin"
         }
     ],
     "05- May": [
