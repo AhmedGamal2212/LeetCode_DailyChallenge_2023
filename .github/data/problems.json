@@ -1889,6 +1889,10 @@
         {
             "day": "24",
             "title": "Furthest Point From Origin"
+        },
+        {
+            "day": "25",
+            "title": "Maximize the Distance Between Points on a Square"
         }
     ],
     "05- May": [
