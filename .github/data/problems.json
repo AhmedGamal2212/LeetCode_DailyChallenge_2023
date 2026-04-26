@@ -1893,6 +1893,10 @@
         {
             "day": "25",
             "title": "Maximize the Distance Between Points on a Square"
+        },
+        {
+            "day": "26",
+            "title": "Detect Cycles in 2D Grid"
         }
     ],
     "05- May": [
