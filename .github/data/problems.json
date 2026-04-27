@@ -1897,6 +1897,10 @@
         {
             "day": "26",
             "title": "Detect Cycles in 2D Grid"
+        },
+        {
+            "day": "27",
+            "title": "Check if There is a Valid Path in a Grid"
         }
     ],
     "05- May": [
