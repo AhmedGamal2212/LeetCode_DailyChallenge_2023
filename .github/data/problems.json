@@ -1901,6 +1901,10 @@
         {
             "day": "27",
             "title": "Check if There is a Valid Path in a Grid"
+        },
+        {
+            "day": "28",
+            "title": "Minimum Operations to Make a Uni-Value Grid"
         }
     ],
     "05- May": [
