@@ -2287,6 +2287,10 @@
         {
             "day": "31",
             "title": "Snakes and Ladders"
+        },
+        {
+            "day": "01",
+            "title": "Rotate Function"
         }
     ],
     "06- June": [
