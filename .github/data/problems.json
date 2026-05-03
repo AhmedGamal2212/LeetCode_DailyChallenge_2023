@@ -2295,6 +2295,10 @@
         {
             "day": "02",
             "title": "Rotated Digits"
+        },
+        {
+            "day": "03",
+            "title": "Rotate String"
         }
     ],
     "06- June": [
