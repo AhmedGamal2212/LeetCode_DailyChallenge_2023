@@ -2323,6 +2323,10 @@
         {
             "day": "09",
             "title": "Cyclically Rotating a Grid"
+        },
+        {
+            "day": "10",
+            "title": "Maximum Number of Jumps to Reach the Last Index"
         }
     ],
     "06- June": [
