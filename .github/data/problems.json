@@ -2327,6 +2327,10 @@
         {
             "day": "10",
             "title": "Maximum Number of Jumps to Reach the Last Index"
+        },
+        {
+            "day": "11",
+            "title": "Separate the Digits in an Array"
         }
     ],
     "06- June": [
