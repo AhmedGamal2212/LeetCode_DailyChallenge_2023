@@ -2331,6 +2331,10 @@
         {
             "day": "11",
             "title": "Separate the Digits in an Array"
+        },
+        {
+            "day": "12",
+            "title": "Minimum Initial Energy to Finish Tasks"
         }
     ],
     "06- June": [
