@@ -2343,6 +2343,10 @@
         {
             "day": "14",
             "title": "Check if Array is Good"
+        },
+        {
+            "day": "15",
+            "title": "Find Minimum in Rotated Sorted Array"
         }
     ],
     "06- June": [
