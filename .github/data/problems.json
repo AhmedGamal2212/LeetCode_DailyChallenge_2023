@@ -2363,6 +2363,10 @@
         {
             "day": "19",
             "title": "Minimum Common Value"
+        },
+        {
+            "day": "20",
+            "title": "Find the Prefix Common Array of Two Arrays"
         }
     ],
     "06- June": [
