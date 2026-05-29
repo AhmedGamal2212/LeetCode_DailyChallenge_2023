@@ -2399,6 +2399,10 @@
         {
             "day": "28",
             "title": "Longest Common Suffix Queries"
+        },
+        {
+            "day": "29",
+            "title": "Minimum Element After Replacement With Digit Sum"
         }
     ],
     "06- June": [
