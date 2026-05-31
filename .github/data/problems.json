@@ -2407,6 +2407,10 @@
         {
             "day": "30",
             "title": "Block Placement Queries"
+        },
+        {
+            "day": "31",
+            "title": "Destroying Asteroids"
         }
     ],
     "06- June": [
