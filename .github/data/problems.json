@@ -2773,6 +2773,10 @@
         {
             "day": "30",
             "title": "Longest Harmonious Subsequence"
+        },
+        {
+            "day": "01",
+            "title": "Minimum Cost of Buying Candies With Discount"
         }
     ],
     "07- July": [
