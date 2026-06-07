@@ -2797,6 +2797,10 @@
         {
             "day": "06",
             "title": "Left and Right Sum Differences"
+        },
+        {
+            "day": "07",
+            "title": "Create Binary Tree From Descriptions"
         }
     ],
     "07- July": [
