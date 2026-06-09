@@ -2805,6 +2805,10 @@
         {
             "day": "08",
             "title": "Partition Array According to Given Pivot"
+        },
+        {
+            "day": "09",
+            "title": "Maximum Total Subarray Value I"
         }
     ],
     "07- July": [
