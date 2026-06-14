@@ -2825,6 +2825,10 @@
         {
             "day": "13",
             "title": "Weighted Word Mapping"
+        },
+        {
+            "day": "14",
+            "title": "Maximum Twin Sum of a Linked List"
         }
     ],
     "07- July": [
