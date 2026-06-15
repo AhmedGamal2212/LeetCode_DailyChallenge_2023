@@ -2829,6 +2829,10 @@
         {
             "day": "14",
             "title": "Maximum Twin Sum of a Linked List"
+        },
+        {
+            "day": "15",
+            "title": "Delete the Middle Node of a Linked List"
         }
     ],
     "07- July": [
