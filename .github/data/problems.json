@@ -2869,6 +2869,10 @@
         {
             "day": "25",
             "title": "Count Subarrays With Majority Element I"
+        },
+        {
+            "day": "26",
+            "title": "Count Subarrays With Majority Element II"
         }
     ],
     "07- July": [
